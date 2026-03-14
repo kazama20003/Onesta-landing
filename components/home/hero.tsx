@@ -52,7 +52,7 @@ export default function Hero() {
 
         <div className="mt-4 flex items-center justify-between text-sm text-white/72 sm:hidden">
           <span className="font-semibold tracking-[0.18em] uppercase">
-            Lima
+            AREQUIPA
           </span>
           <span>12&deg;02&apos;35&Prime;S 77&deg;01&apos;42&Prime;W</span>
         </div>
